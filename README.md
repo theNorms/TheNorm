@@ -1,1 +1,1 @@
-Eclipse-AGI
+AI Unrestricted Video Generator
